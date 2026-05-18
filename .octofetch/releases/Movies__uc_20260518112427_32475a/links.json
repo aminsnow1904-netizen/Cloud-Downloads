@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8935",
+  "folder": "Movies__uc_20260518112427_32475a",
+  "base_name": "Movies__uc_20260518112427_32475a.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/aminsnow1904-netizen/Cloud-Downloads/releases/tag/co-releases-v1-8935",
+  "files": [
+    {
+      "name": "Movies__uc_20260518112427_32475a.bin",
+      "url": "https://github.com/aminsnow1904-netizen/Cloud-Downloads/releases/download/co-releases-v1-8935/Movies__uc_20260518112427_32475a.bin",
+      "api_url": "https://api.github.com/repos/aminsnow1904-netizen/Cloud-Downloads/releases/assets/423231500",
+      "id": 423231500,
+      "size": 1211695,
+      "download_count": 0
+    }
+  ]
+}
